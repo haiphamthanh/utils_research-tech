@@ -2,3 +2,6 @@
 .server.log
 .server.pid
 .server.port
+
+
+/resources
